@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/ARInteractions_Pluralsight.unity
+- path: Assets/Scenes/Photo_Gallery.unity
   isLoaded: 1
   isActive: 1

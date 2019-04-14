@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/ARInteractions_Pluralsight.unity
+    path: Assets/Scenes/Photo_Gallery.unity
     guid: 29482746d4bae42cfb73815616f2811b
   m_configObjects: {}
