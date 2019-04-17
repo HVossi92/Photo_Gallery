@@ -41,6 +41,7 @@ public class ImageOverlayBehaviour : MonoBehaviour
     void SetImage(Sprite imageSprite)
     {
         image.sprite = imageSprite;
+        image.preserveAspect = true;
     }
 
     void DisplayImageOverlay(CustomEventData eventData)
